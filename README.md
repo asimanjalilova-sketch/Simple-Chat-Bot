@@ -6,6 +6,9 @@ The bot can answer basic questions and demonstrate simple text-based interaction
 Features ✨
 
 Greets the user
+
 Responds to simple commands/questions
+
 Runs in the terminal (console application)
+
 Written fully in Kotlin
